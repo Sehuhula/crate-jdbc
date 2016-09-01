@@ -5,6 +5,8 @@ Changes for Crate Data JDBC Client
 Unreleased
 ==========
 
+ - Updated Crate client to 0.55.4.
+
 2016/07/11 1.13.0
 =================
 
